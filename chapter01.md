@@ -1,4 +1,3 @@
-https://kipalog.com/posts/Bao-cao-co-che-hoat-dong-cua-website
 
 # Báo cáo cơ chế hoạt động của website
 
