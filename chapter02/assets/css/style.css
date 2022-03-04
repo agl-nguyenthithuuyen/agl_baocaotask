@@ -8,7 +8,7 @@
 }
 
 .c-inner {
-    margin-top: 41px;
+    margin-top: 20px;
     display: flex;
     border-bottom: 1px solid #000;
     padding-bottom: 18px;
@@ -303,8 +303,6 @@
     margin-bottom: 115px;
 }
 
-.p-blog__inner {}
-
 .section__title-color3 {
     border: #6dcff6 solid 2px;
     border-left: #6dcff6 solid 7px;
@@ -458,4 +456,98 @@
     border-bottom: 1px solid;
     width: 300px;
     padding-bottom: 6px;
+}
+
+
+/* link1 */
+
+.p-menu {
+    display: flex;
+}
+
+.p-menu__list {
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.p-menu__item {
+    width: 300px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #00aeef;
+    border-radius: 7px;
+}
+.p-link1 {
+    margin-top: 65px;    
+}
+.p-link1__title {
+    border-bottom: 1px solid #000;
+    background: aqua;
+    height: 35px;
+    font-size: 18px;
+    padding-top: 2px;
+}
+.p-link1__item {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 9px;
+}
+.p-link1__item-text {
+    width: 300px;
+    margin-top: 34px;
+}
+.p-link1__title h4 {
+    margin-top: 40px;
+}
+.p-link1__item-text img {
+    margin-top: 17px;
+}
+.p-link1__item-text h3 {
+    margin-top: 13px;
+    width: 100px;
+    background-color: #a3d39c;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p-link1__item-text p {
+    margin-top: 15px;
+    font-size: 19px;
+}
+.p-link2 {
+    margin-top: 58px;
+    padding-bottom: 3px;
+}
+.p-link2__content{}
+.p-link2__title{
+    border-bottom: 1px solid #000;
+    padding-bottom: 15px;
+}
+.p-link2__item {
+    margin-top: 29px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.p-link2__item-text {
+    width: 237px;
+}
+.p-link2__item-text h3 {
+    background: aqua;
+    width: 130px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.p-link2__item-text p {
+    margin-top: 15px;
+    margin-bottom: 26px;
 }
